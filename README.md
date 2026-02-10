@@ -1,3 +1,5 @@
+Deprecated
+
 # Terraform Azure Lab 01
 
 ## Description
